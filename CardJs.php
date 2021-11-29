@@ -2,9 +2,9 @@
 
 namespace mhunesi\cardjs;
 
-use mhunesi\entegra\helpers\ArrayHelper;
 use yii\helpers\Html;
 use yii\helpers\Json;
+use yii\helpers\ArrayHelper;
 
 /**
  * This is just an example.
